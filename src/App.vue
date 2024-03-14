@@ -1,10 +1,5 @@
 <template>
-  <div class="h-screen relative overflow-hidden">
-    <Nav></Nav>
-    <Hero></Hero>
-    <Joke></Joke>
-    <Footer></Footer>
+  <div>
+    <RouterView />
   </div>
 </template>
-
-<script setup></script>

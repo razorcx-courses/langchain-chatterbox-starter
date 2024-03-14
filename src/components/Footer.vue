@@ -1,7 +1,7 @@
 <template>
   <footer
     id="footer"
-    class="absolute text-sm px-3 h-8 flex justify-between items-center bg-black text-white w-full bottom-0"
+    class="fixed bottom-0 left-0 z-50 text-sm mt-2 px-3 h-8 flex justify-between items-center bg-black text-white w-full"
   >
     <h2 class="text-md font-medium text-pink-400">
       chatter<span class="text-white font-bold">Box</span>
